@@ -4,11 +4,7 @@ const cartas = [
   { titulo: "❤️02 August: Learning from you.....", contenido: `<p>💕With each passing day. I am more and more amazed by you. Even though we don't speak the same language. I undersrabd every part of you, and I truly admire you because you teach me what it means to be both tender and strong at the same time. you are the person wuth whom I want to keep making memories and building a life togheter...🩷Link: <a href="https://dani18046.github.io/Rei/" target="_blank"> Promise 🍓 </p><img src="imagen2.png" alt="Carta 2">` },
   { titulo: "🌹02 September: I really like you....", contenido: `<p>✨I really like your personality and your beauty. I love every part of you, it's so lovely: Your face, your eyes, your cheeks, your lips, your nose, your forehead, your body. I love everithing about you and every time I see you, I love admiring how pretty you are. I can't believe I have a girlfriend who is so pretty in every way, my universe......  😮‍💨Link: <a href="https://dani18046.github.io/galaxy/" target="_blank"> Pretty 😮‍💨 </p><img src="imagen3.png" alt="Carta 3">` },
   { titulo: "💖02 October: A future together.....", contenido: `<p>💕A life together—that is the promise and the commitment. I will love you every day of my life and always win your heart anew; I promise to respect you at all times and to make all decisions together. Not everything is perfect, but being together is the most beautiful gift God has given me.......💍Link: <a href="https://dani18046.github.io/universe/" target="_blank"> Together Forever ✨💍 </p><img src="imagen4.jpg" alt="Carta 4">` },
-  { titulo: "💕02 November:", contenido: `<p>🌙Soon......🫵</p><iframe width="100%" height="315"
-src="Link:"
-title="Video 1" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>` },
+  { titulo: "💕02 November:", contenido: `<p>🦊The time we've spent together has been a truly beautiful experience, learning to love you, getting to know your ways and your love. I've learned that you're a girl with wonderful values, someone who is truly beautiful in every way, in your personality and as a person and I truly love everything about you, I hope you like this little gift, it's a little different from the usual.......🍓Link: <a href="https://dani18046.github.io/november/" target="_blank"> Te amo mucho 🎃😮‍💨 </p><img src="imagen5.jpg" alt="Carta 5">` },
   { titulo: "🦊02 December:", contenido: `<p>❤️Soon.....🫵</p><iframe width="100%" height="315"
 src="Link:"
 title="Video 2" frameborder="0"
